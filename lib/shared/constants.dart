@@ -1,5 +1,5 @@
 import 'dart:ui';
 
 class Constants {
-  final primaryColor = const Color.fromARGB(0, 39, 73, 92);
+  final primaryColor = const Color.fromARGB(255, 0, 0, 0);
 }
