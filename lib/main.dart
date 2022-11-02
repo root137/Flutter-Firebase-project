@@ -1,10 +1,10 @@
 import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_project/module/auth/login_page.dart';
-import 'package:firebase_project/shared/constants.dart';
+import 'package:firebase_project/modules/auth/login_page.dart';
 import 'package:flutter/material.dart';
 
-import 'module/auth/register_page.dart';
-import 'module/views/home_page.dart';
+import 'constants/constants.dart';
+import 'modules//auth/register_page.dart';
+import 'modules//views/home_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
